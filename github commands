@@ -1,7 +1,16 @@
 1-> Make a folder
 
 2-> Create a file inside the folder
+        -> do your work.
 
 3-> Run--> git init
 
-4-> 
+4-> git add .
+
+5-> git status
+
+6-> git commit -m "Commit Name"
+
+7-> git remote add origin https://github.com/GauravkrCoder/respositoryName.git
+
+8-> git push -u origin master
